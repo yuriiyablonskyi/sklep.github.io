@@ -52,7 +52,7 @@ body {
 .header:before {
 	position: absolute;
 	content: '';
-	background: #eaeaea url('../images/header/header-bg.png') repeat-x center;
+	background: #eaeaea url('../images/header/header-bg.png') repeat center;
 	left: 0;
 	right: 0;
 	top: 0;
